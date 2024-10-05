@@ -22,13 +22,13 @@ highlight_code = true
 # Put all your custom variables here
 list_pages = false
 toc = true
-author = "Paradoxed"
+author = "0xdeathbed"
 display_author = true
 
 
 header_nav = [
   {url = "/", name_en = "Home"},
-  { url = "https://github.com/paradoxedmind", name_en = "Github" },
+  { url = "https://github.com/0xdeathbed", name_en = "Github" },
   {url = "/blog", name_en = "Blog"},
   { url = "/about", name_en = "About" },
   # { url = "/journal", name_en = "/journal/", name_fr = "/journal/" },
